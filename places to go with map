@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="apple-touch-icon" sizes="180x180" href="../other resources/favicon_package_v0.16/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../other resources/favicon_package_v0.16/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../other resources/favicon_package_v0.16/favicon-16x16.png">
+  <link rel="manifest" href="../other resources/favicon_package_v0.16/site.webmanifest">
+  <link rel="mask-icon" href="../other resources/favicon_package_v0.16/safari-pinned-tab.svg" color="#5bbad5">
+
+  <meta name="msapplication-TileColor" content="#2b5797">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" href="../css/bootstrap.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<header>
+  <nav class="navbar navbar-dark bg-primary navbar navbar-fix-top">
+        <div class="container">
+        <a class="navbar-brand" href="#">Get on board</a>
+        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="navbar-collapse collapse" id="navbarColor01" style="">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="events.html">Events</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="PlacesToPlay.html">Places to play</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="reviews.html">Reviews</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="about.html">About</a>
+            </li>
+          </ul>
+          <form class="form-inline">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-info my-2 my-sm-0" type="submit">Search</button>
+          </form>
+        </div>
+      </nav>
+  </nav>
+</header>
+<title>Places to play</title>
+<body>
+<h1>Places to play</h1>
+  <p>The Treehouse</p>
+  <p>Sheffield's first board game cafe, a friendly,  space for gamers to explore a library of 400+ games.</p>
+  <p>Check website for prices</p>
+
+
+  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1e4D8B82f9O8K6FaDs4D9DlKzuc7PwjVk" width="640" height="480"></iframe>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="../javascript/bootstrap.min.js"></script>
+    <script src="../javascript/map.js" charset="utf-8"></script>
+</body>
+</html>
