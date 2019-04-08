@@ -49,11 +49,11 @@ margin: 0.6em
 font-family: Poppins;
 color: #330033;
 }
-.link {
+.link a {
   margin: 1em;
-  font-size: 20px;
+  font-size: 15px;
   font-family: Poppins;
-  color: #330033;
+  color: #993366;
 }
 .heading {
   margin: 1em;
