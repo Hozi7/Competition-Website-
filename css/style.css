@@ -61,12 +61,13 @@ color: #330033;
   font-family: Poppins;
   color: #330033;
 }
+
 p {
   margin: 1em;
   font-size: 20px
   font-family: Poppins;
   color: #330033;
-  text-align: center;
+  text-align: left;
 }
 body {
   background-image: url("../images/colourfulEdit.png");
@@ -74,6 +75,18 @@ body {
   background-size: cover;
   margin: 0px;
   padding: 0px;
+  font-family: Poppins;
+  color: #330033;
+}
+h2 {
+  margin: 0.45em;
+}
+h5 {
+  margin: 0.8em;
+  font-weight: bold;
+}
+h6 {
+  text-align: center;
   font-family: Poppins;
   color: #330033;
 }
