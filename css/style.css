@@ -77,6 +77,7 @@ body {
   padding: 0px;
   font-family: Poppins;
   color: #330033;
+  cursor:  url('../images/Dominosmall.png'), auto;
 }
 h2 {
   margin: 0.45em;
